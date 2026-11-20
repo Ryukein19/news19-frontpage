@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 — The World in One Day
 
-[![make.fun](https://make.fun/api/badges/news-image-20261119/entries)](https://make.fun/bounty/news-image-20261119)
-[![make.fun](https://make.fun/api/badges/news-image-20261119/prize)](https://make.fun/bounty/news-image-20261119)
-[![make.fun](https://make.fun/api/badges/news-image-20261119/deadline)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Ryukein19/news19-frontpage/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Ryukein19/news19-frontpage/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 Entry for the make.fun bounty [Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119).
 
