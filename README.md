@@ -1,17 +1,18 @@
-# news19-frontpage
+# Thursday 19 November 2026 — The World in One Day
 
-[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![rank](https://make.fun/badge/news-image-20261119/Ryukein19/news19-frontpage/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/Ryukein19/news19-frontpage/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![make.fun](https://make.fun/api/badges/news-image-20261119/entries)](https://make.fun/bounty/news-image-20261119)
+[![make.fun](https://make.fun/api/badges/news-image-20261119/prize)](https://make.fun/bounty/news-image-20261119)
+[![make.fun](https://make.fun/api/badges/news-image-20261119/deadline)](https://make.fun/bounty/news-image-20261119)
 
-A newspaper front page that sums up Thursday 19 November 2026's world news in one image: the first Trump-Xi-Putin three-way summit in Shenzhen, the World Court's finding that Myanmar committed genocide against the Rohingya, COP31's draft dropping fossil fuels, Anthropic's record IPO, the GTA VI launch, and 16 more stories from every continent — each attributed to its source.
+Entry for the make.fun bounty [Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119).
 
-## Run it
+A dense newspaper front page for **Thursday 19 November 2026** — 38 stories from every
+continent on one page: the first Trump–Xi–Putin three-way summit in Shenzhen, the World
+Court's genocide verdict on Myanmar, a Houthi missile hitting Riyadh's tallest tower,
+Anthropic's record $81.3bn Nasdaq debut, COP31's draft fight, Cyclone Akvan, GTA VI's
+launch, and 24 more stories from the day, all attributed to the day's wires.
 
-```sh
-python3 main.py
-```
+## How it works
 
----
-
-<sub>Entered on [make.fun](https://make.fun/?ref=2vxmt75s&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
+`main.py` (Python standard library only) copies `entry.png` — a 1024×1024 PNG rendered
+from `frontpage.html` — to the output directory (`MAKEFUN_OUTPUT_DIR` or `/output`).
